@@ -1,2 +1,1 @@
-app:
-   name :8080
+api.end.point=http://prod_url.com
