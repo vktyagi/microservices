@@ -1,1 +1,3 @@
 api.end.point=http://dev_url.co
+minimum=100
+maximum=500
