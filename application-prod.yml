@@ -1,1 +1,3 @@
 api.end.point=http://prod_url.com
+minimum=1000
+maximum=5000
